@@ -3,10 +3,14 @@
 ## Оглавление
 
 [1. Описание проекта](https://github.com/nsidorenko01/sf_hw_1/blob/main/project_0/README.md#Описание-проекта)
+
 [2. Описание кейса для решения](https://github.com/nsidorenko01/sf_hw_1/blob/main/project_0/README.md#Описание-кейса-для-решения)
+
 [3. Данные для проекта](https://github.com/nsidorenko01/sf_hw_1/blob/main/project_0/README.md#Данные-для-проекта)
+
 [4. Этапы работы над проектом](https://github.com/nsidorenko01/sf_hw_1/blob/main/project_0/README.md#Этапы-работы-над-проектом)
-[4. Выводы по проекту](https://github.com/nsidorenko01/sf_hw_1/blob/main/project_0/README.md#Выводы-по-проекту)
+
+[5. Выводы по проекту](https://github.com/nsidorenko01/sf_hw_1/blob/main/project_0/README.md#Выводы-по-проекту)
 
 ### Описание проекта
 
